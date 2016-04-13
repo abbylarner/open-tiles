@@ -1,6 +1,8 @@
 #Open Tiles
 
-This is a repository for open source style tiles for developers who need design help and designers who need inspiration. 
+This is a repository for open source style tiles for developers who need design help and designers who need inspiration.
+
+Style tiles were developed by Samantha Warren.  To learn more about style tiles, check out her website: [styletil.es](http://www.styletil.es).
 
 </a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. So, if you don't want your designs to be open source, don't add them!
 
