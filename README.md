@@ -36,3 +36,7 @@ style_tile_project_name
 
 #Style Tile Example
 ![Style Tile Example](vintage_outdoors.jpg)
+
+
+#Attribution
+Attribution is not required for these styles, but if you would like to add your name to the tile so people may attribute you, feel free!
