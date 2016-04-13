@@ -18,6 +18,7 @@ Please save all style tiles in the following format:
 
 - An individual .jpg file for your stile tile with a descriptive name
 - A folder with any original files (.psd, .ai) - can be zipped up if you want
+- File sizes should be 100MB or less (otherwise you won't be able to push them to Github)
 
 ```
 style_tile_name.jpg 
@@ -29,4 +30,5 @@ style_tile_project_name
 ```
 
 
-#Style Tiles Example
+#Style Tile Example
+![Style Tile Example](vintage_outdoors.jpg)
