@@ -23,6 +23,9 @@ import App from './components/App';
 import Home from './components/pages/Home';
 import Contact from './components/pages/Contact';
 import Stories from './components/pages/Stories';
+import Login from './components/pages/Login';
+import Register from './components/pages/Register';
+import TileBuilder from './components/pages/TileBuilder';
 
 
 const router = (
@@ -31,6 +34,9 @@ const router = (
 			<IndexRoute component={Home}/>
 			<Route path="/contact" component={Contact} />
 			<Route path="/stories" component={Stories} />
+			<Route path="/login" component={Login} />
+			<Route path="/register" component={Register} />
+			<Route path="/tile-builder" component={TileBuilder} />
 		</Route>
 	</Router>
 );
