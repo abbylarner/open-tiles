@@ -37,7 +37,7 @@ style_tile_project_name
 
 
 #Style Tile Example
-![Style Tile Example](vintage_outdoors.jpg)
+![Style Tile Example](examples/vintage_outdoors/vintage_outdoors.jpg)
 
 
 #Attribution
