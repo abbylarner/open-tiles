@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Pointer App</title>
+		<link rel="stylesheet" href="<%= env === 'development' ? '/styles/main.scss.css' : '/styles/main.scss.min.css?'+version %>" />
+
+	</head>
+	<body>
+		<div id="app"></div>
+		<script type="text/javascript">
+			window.user = <%- user ? JSON.stringify(user) : '{}' %>;
+		</script>
+		<script type="text/javascript" src="<%= env === 'development' ? '/scripts/bundle.js' : '/scripts/bundle.min.js?'+version %>"></script>
+	</body>
+</html>
